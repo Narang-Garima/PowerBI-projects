@@ -1,1 +1,31 @@
+Finance Dashboard
+This interactive Finance Dashboard was built to visualize and analyze key financial metrics, including income, expenses, savings, and growth trends over time. It is designed to provide a clear and insightful overview of personal or business finances, utilizing dynamic visualizations for enhanced clarity.
 
+ Features
+Date-based Expense Tracking
+Line chart showing how expenses evolve over time (2021–2024).
+
+Interactive Filters
+Filter data by year (2021–2024) for targeted analysis.
+
+Key Performance Indicators (KPIs)
+Summary cards showing total income, total expenses, savings, and growth percentages.
+
+Detailed Breakdown Tables
+Expandable tables for viewing values across:
+
+Income sources (e.g., Freelancing, Salary)
+
+Savings categories (e.g., Liquid Cash, Fixed Deposit, Mutual Funds)
+
+Expenses (e.g., Rent, EMIs, Travel, Health)
+
+Pie Charts
+Easy-to-understand breakdown of expense and savings distribution.
+
+Tools Used
+Power BI (for dashboard development)
+
+DAX (for calculations and KPIs)
+
+Excel (for initial data preparation and modeling)
